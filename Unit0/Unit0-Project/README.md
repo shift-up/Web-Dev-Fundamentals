@@ -1,6 +1,6 @@
 # Unit 0 Project
 
-This project is meant to get you familiar with the assignment submission and feedback process using GitHub.com. This project does not require any knowledge of Git or the command-line, it can all be completed using the user interface at GitHub.com. Make sure you complete the Module 0.1 course material before doing this assignment.
+This project is meant to get you familiar with the assignment submission and feedback process using GitHub.com. This project does not require any knowledge of Git or the command-line, it can all be completed using the user interface at GitHub.com. Make sure you complete the Module 0.1 course material before doing this assignment. You will use this same process to submit all Mini-Projects and Unit Projects going forward.
 
 ## Project Instructions
 

@@ -6,10 +6,7 @@ This project is meant to get you familiar with the assignment submission and fee
 
 1. Go to your Web Dev Fundamentals repository (find it by going to My Respositories in your GitHub account)
 1. Create a new branch called `unit0-project`
-1. Navigate to `Web-Dev-Fundamentals/Unit0/Unit0-Project` and click Create New File
-
-ADD SCREENSHOT
-
+1. Navigate to `Web-Dev-Fundamentals/Unit0/Unit0-Project` and click Create New File. ![alt text](https://raw.githubusercontent.com/shift-up/Web-Dev-Fundamentals/master/Unit0/screenshots/step3.png "Step 3")
 1. Name the file `unit0-project.md`
 1. Add a sentence or two to the file describing one thing you learned in Unit 0
 

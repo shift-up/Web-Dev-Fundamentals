@@ -10,8 +10,8 @@ As you go through each Module you will find self-graded quizzes and assignments 
 
 # Units
 
-- Unit 0: Overview & Background
-- Unit 1: HTML & CSS
-- Unit 2: Unit 2: Command Line & GitHub
-- Unit 3: HTML and CSSS
-- Unit 4: HTML and CSSS
+- [Unit 0: Overview & Background](https://github.com/shift-up/Web-Dev-Fundamentals/tree/Unit0)
+- [Unit 1: HTML & CSS](https://github.com/shift-up/Web-Dev-Fundamentals/tree/Unit1)
+- [Unit 2: Unit 2: Command Line & GitHub](https://github.com/shift-up/Web-Dev-Fundamentals/tree/Unit2)
+- [Unit 3: Javascript Fundamentals](https://github.com/shift-up/Web-Dev-Fundamentals/tree/Unit3)
+- [Unit 4: Javascript for the Web](https://github.com/shift-up/Web-Dev-Fundamentals/tree/Unit4)

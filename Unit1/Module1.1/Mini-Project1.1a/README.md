@@ -1,9 +1,9 @@
-# Mini-Project1.1a: Build a basic personalized HTML web page
+# Mini Project 1.1a: Build a basic personalized HTML web page
 
 ##### Credit to OpenClassrooms
 ![Become](https://github.com/OCclassprojects/logo/blob/master/fav-icon.png?raw=true)
 
-### Mini-Project Instructions
+### Mini Project Instructions
 
 1. Open the [project page on OpenClassrooms](https://openclassrooms.com/en/courses/5265446-build-your-first-web-pages-with-html-and-css/6773861-get-some-practice-building-your-first-page-with-html-and-css)
 

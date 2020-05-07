@@ -21,4 +21,4 @@
 
 ## Unit 0 Project
 
-Follow instructions for the [Unit 0 Project here](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit0#unit-0-project).
+Follow instructions for the [Unit 0 Project here](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit0/Unit0-Project).

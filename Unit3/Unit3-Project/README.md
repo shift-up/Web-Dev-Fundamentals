@@ -13,7 +13,7 @@ This project will build on the book-tracking app you created at the end of Modul
 
 1. Complete the project according to the instructions at OC link above but make sure you Unzip the project code inside `EN_starter NEW.zip` and save it to the `PROJECT_SUBMISSION` directory within your local Git repo (`your-name/Web-Dev-Fundamentals/Unit1/Unit3-Project`).  
 
-1. After you complete the project and find out secret word (the question on the Quiz), we will have you add an additional method to your code in `Book.js`.
+1. After you complete the project and find out secret word (and answer the question on the quiz correctly), you will add some additional code to `Book.js`.
 
 1. TODO: create additional challenge
 

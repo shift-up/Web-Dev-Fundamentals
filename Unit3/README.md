@@ -1,6 +1,6 @@
 # Unit 3: Javascript Fundamentals
 
-## Module 0.1
+## Module 3.1
 
 ### Course Material
 
@@ -24,12 +24,12 @@
 
 ### Course Material
 
-* [Learn Programming with Javascript](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript)
+* 3.2 [Learn Programming with Javascript](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript)
    * OC course time: 15 hrs 
 
 ### Mini-Projects
 
-* Not included in OC course
+* **Not** included in OC course:
    * Mini Project 3.2a
      Loops in Javascript - Laughing machine 
    * Mini-Project 3.2b

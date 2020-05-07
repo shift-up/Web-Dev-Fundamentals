@@ -1,9 +1,9 @@
-# Mini-Project3.2a: Loops in Javascript - Laughing machine
+# Mini-Project 3.2b: Loops in Javascript - Laughing machine
 
 ##### Credit to Shift_Up coach Adrian Laurenzi
 ![Become](https://avatars2.githubusercontent.com/u/38302861?s=200&v=4)
 
-### Welcome to Mini-Project 3.2a!
+### Welcome to Mini-Project 3.2b!
 
 This mini-project will help you practice writing and understanding functions in Javascript, which you learned [in the OC course here](https://openclassrooms.com/en/courses/5664271-learn-programming-with-javascript/6056621-understand-parameters-and-return-values#r-6853721). This mini-project consists of 3 mini-exercises.
 

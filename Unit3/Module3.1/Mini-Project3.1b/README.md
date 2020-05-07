@@ -1,4 +1,4 @@
-# Mini-Project3.1b: Magic function machine
+# Mini-Project 3.1b: Magic function machine
 
 ##### Credit to OpenClassrooms
 ![Become](https://github.com/OCclassprojects/logo/blob/master/fav-icon.png?raw=true)

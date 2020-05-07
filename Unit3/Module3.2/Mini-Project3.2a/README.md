@@ -1,4 +1,4 @@
-# Mini-Project3.2a: Loops in Javascript - Laughing machine
+# Mini-Project 3.2a: Loops in Javascript - Laughing machine
 
 ##### Credit to Shift_Up coach Adrian Laurenzi
 ![Become](https://avatars2.githubusercontent.com/u/38302861?s=200&v=4)

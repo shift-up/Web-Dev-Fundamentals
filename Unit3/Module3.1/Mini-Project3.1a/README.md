@@ -1,4 +1,4 @@
-# Mini-Project3.1a: Write logic for two simple loops
+# Mini-Project 3.1a: Write logic for two simple loops
 
 ##### Credit to OpenClassrooms
 ![Become](https://github.com/OCclassprojects/logo/blob/master/fav-icon.png?raw=true)

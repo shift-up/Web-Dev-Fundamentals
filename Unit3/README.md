@@ -11,9 +11,9 @@
 
 * Included in OC course:
    * Mini-Project 3.1a: 
-     Write logic for two simple loops
-   * Mini-Project 3.1b:
-     Magic function machine  
+     [Write logic for two simple loops](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit3/Module3.1/Mini-Project3.1a)
+   * Mini-Project 3.1b: 
+     [Magic function machine](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit3/Module3.1/Mini-Project3.1b)
 
 ### Self-Graded Assignments
 
@@ -30,10 +30,10 @@
 ### Mini-Projects
 
 * **Not** included in OC course:
-   * Mini Project 3.2a
-     Loops in Javascript - Laughing machine 
-   * Mini-Project 3.2b
-     Javascript function practice
+   * Mini Project 3.2a: 
+     [Loops in Javascript - Laughing machine](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit3/Module3.2/Mini-Project3.2a)
+   * Mini-Project 3.2b: 
+     [Javascript function practice](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit3/Module3.2/Mini-Project3.2b)
 
 ### Self-Graded Assignments
 
@@ -62,5 +62,5 @@
 
 ## Unit 3 Project
 
-Find instructions for the Unit 3 Project here.
+Open the [Unit 3 Project here](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit3/Unit3-Project).
 

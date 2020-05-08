@@ -55,14 +55,14 @@
   * [Create Web Page Layouts With CSS](https://openclassrooms.com/en/courses/5295881-create-web-page-layouts-with-css)
   	* OC course time: 10 hrs
 * **Not** included in OC course: 
-  * Basics of Chrome Developer Tools:
-  		* [What is Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) (2 mins)
-  			* Just read the first 2 sections (Chrome DevTools and Open DevTools) and then move on to the CSS section
+	* Basics of Chrome Developer Tools:
+		* [What is Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) (2 mins)
+			* Read only the first 2 sections (Chrome DevTools and Open DevTools) and then move on to the CSS section
 		* [Finding elements' CSS](https://developers.google.com/web/tools/chrome-devtools/css/reference#select) (8 mins)
 			* Skip last 3 sections starting with “View a page in print mode”
 		* [Changing elements' CSS](https://developers.google.com/web/tools/chrome-devtools/css/reference#change) (10 mins)
 		* [Simulate mobile devices](https://developers.google.com/web/tools/chrome-devtools/device-mode) (5 mins)
-			* Just read the first two sections within Simulating a mobile viewport, stop when you get to "Show rulers"
+			* Read only the first two sections within Simulating a mobile viewport, stop when you get to "Show rulers"
 		* [Code coverage (Optional - advanced)](https://developers.google.com/web/tools/chrome-devtools/coverage)
 
 ### Mini-Projects

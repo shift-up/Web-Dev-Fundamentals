@@ -12,7 +12,8 @@
 
 ### Mini-Projects
 
-* Mini Project 2.1a: [Create and Modify Directories and Files](https://www.rithmschool.com/courses/terminal/terminal-basics-exercises)
+* **Not** included in OC course:
+    * Mini Project 2.1a: [Create and Modify Directories and Files](./Module2.1/Mini-Project2.1a/README.md)
 
 ### Self-Graded Assignments
 

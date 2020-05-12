@@ -9,8 +9,12 @@
 
 ### Mini-Projects
 
-* Mini Project 4.1a: [Building a Tip Calculator](./Module4.1/Mini-Project4.1a)
-* Mini Project 4.1b: [Building a Project with Gulp](https://openclassrooms.com/en/courses/5493201-write-javascript-for-the-web/6770216-get-some-practice-building-your-project-with-gulp)
+* Included in OC course:
+    * Mini Project 4.1b: [Building a Project with Gulp](./Module4.1/Mini-Project4.1b)
+
+* **Not** included in OC course:
+    * Mini Project 4.1a: [Building a Tip Calculator](./Module4.1/Mini-Project4.1a)
+
 
 ### Self-Graded Assignments
 
@@ -62,8 +66,8 @@
 
 ### Mini-Projects
 
-* Mini Project 4.2a: [Writing out suites and specs](https://openclassrooms.com/en/courses/3523361-test-your-website-s-interface/3930596-write-out-suites-and-specs)
-* Mini Project 4.2b: [Creating a Candy Counter](https://openclassrooms.com/en/courses/3523361-test-your-website-s-interface/6784586-get-some-practice-creating-a-candy-counter)
+* Mini Project 4.2a: [Writing out suites and specs](./Module4.2/Mini-Project4.2a)
+* Mini Project 4.2b: [Creating a Candy Counter](./Module4.2/Mini-Project4.2b)
 
 ### Self-Graded Assignments
 

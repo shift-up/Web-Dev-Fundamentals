@@ -9,7 +9,7 @@ This mini-project will help you practice writing and understanding functions in 
 
 ### Mini-Project Instructions
 
-1. For the first mini-exercise, copy the `1_greeting.html` file in `SOURCE_FILES` to `PROJECT_SUBMISSION`.
+1. Copy the `1_greeting.html` file in `SOURCE_FILES` to `PROJECT_SUBMISSION`.
 
 1. First open the file you just copied (`PROJECT_SUBMISSION/1_greeting.html`) in your browser and open the [Javascript console using Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/console).  
 

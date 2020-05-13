@@ -13,7 +13,7 @@
    * Mini-Project 1.1a: 
      [Build a basic personalized HTML web page](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Module1.1/Mini-Project1.1a)
 * **Not** included in OC course:
-   * Mini-Project 1.1b:
+   * Mini-Project 1.1b (Optional):
      [HTML Forms](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Module1.1/Mini-Project1.1b)
 
 ### Self-Graded Assignments

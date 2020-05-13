@@ -24,7 +24,9 @@ Be creative when completing this project and add your own style. However, rememb
     1. Add a button that will delete the item from the list.
 
 1. Create an empty state view for the list if there are no items in the list.
-    1. Just an element with some text saying something like "Add your first todo" is fine.
+    1. Just an element with some text saying something like "Add your first todo" is fine. Here is an example:
+    
+    <img src="https://freshman.tech/assets/images/todo-list/empty-state.gif" />
 
 1. Make sure everything works. Add, delete, and check an item.
 
@@ -37,7 +39,8 @@ We are going to use a local mock server to save and persist your data.
 { "item": [] }
 ```
 
-1. First lets create a structure for the data:
+1. First lets design the data structure for our ToDo items. This will be an object that will hold properties to describe each item.
+    1. When we are ready to create these items, they will populate the array property `item` as described above.
     ```json
     {
       "id": 1,
@@ -46,8 +49,12 @@ We are going to use a local mock server to save and persist your data.
     }
     ```
 
-1. Run `./start_mock_server.sh`
-    1. The base url of the API will be `http://localhost:3000`
+1. Lets run our mock server:
+    1. Open terminal
+    1. Navigate to the project folder: `cd Unit4/Unit4-Project`
+    1. Start the mock server script: `./start_mock_server.sh`
+    1. The server will run at the endpoint: `http://localhost:3000`
+    1. Navigate to `http://localhost:3000/item` in your browser to see the empty list of our ToDo items.
 
 1. Update your `js` file to fetch all the items from the API once the document is ready.
     1. Fetch the data using a `GET` request to `/item`

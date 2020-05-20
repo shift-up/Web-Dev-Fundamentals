@@ -1,5 +1,21 @@
 # Unit 1: HTML & CSS
 
+## Module 0
+
+### Pre-Course Material
+
+* **Not** included in OC course: 
+  * [GitHub Hello World Activity](https://guides.github.com/activities/hello-world/)
+
+* Included in OC course (Optional): 
+  * [Understanding the Web](https://openclassrooms.com/en/courses/3314571-understanding-the-web)
+    * OC course time: 4 hrs
+
+
+### Mini-Projects
+
+* To learn the GitHub process for submitting mini-projects and unit project and getting coach feedback, follow the instructions for [Mini-Project 0.1 here](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Module0/Mini-Project0.1).
+
 ## Module 1.1
 
 ### Course Material

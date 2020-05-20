@@ -69,6 +69,11 @@ export const createCurrentBookTab = book => {
   updateButton.innerText = 'Update';
   form.appendChild(updateButton);
 
+  const randomPageButton = document.createElement('button');
+  randomPageButton.classList.add('btn', 'btn-sm', 'btn-primary');
+  randomPageButton.innerText = 'Open Random Page';
+  form.appendChild(randomPageButton);
+
   content.appendChild(form);
   frame.appendChild(content);
 
@@ -91,6 +96,15 @@ export const createCurrentBookTab = book => {
       document.dispatchEvent(bE);
       createReadBook(book);
       item.parentElement.removeChild(item);
+    }
+  });
+
+  randomPageButton.addEventListener('click', () => {
+    book.openRandomPage();
+    input.defaultValue = book.currentPage;
+    if (!book.read) {
+      progressBar.style.width = (book.currentPage / book.pages) * 100 + '%';
+      document.dispatchEvent(rE);
     }
   });
 

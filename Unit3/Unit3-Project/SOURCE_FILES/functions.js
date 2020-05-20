@@ -103,6 +103,7 @@ export const createReadBook = book => {
   item.classList.add('list-group-item');
   item.innerText = book.title;
   list.appendChild(item);
+  ch();
 };
 
 export const ch = () => {

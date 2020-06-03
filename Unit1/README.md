@@ -1,6 +1,8 @@
 # Unit 1: HTML & CSS
 
-## Module 0 *Skip this module if you are just exploring web development / not yet committed to completing the full program*
+## Module 0 
+
+*Skip this module if you are just exploring web development / not yet committed to completing the full program*
 
 ### Pre-Course Material
 

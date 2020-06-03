@@ -1,13 +1,13 @@
 # Unit 1: HTML & CSS
 
-## Module 0
+## Module 0 *Skip this module if you are just exploring web development / not yet committed to completing the full program*
 
 ### Pre-Course Material
 
-* **Not** included in OC course: 
+* (Required, if you are planning to complete the full web development program): 
   * [GitHub Hello World Activity](https://guides.github.com/activities/hello-world/)
 
-* Included in OC course (Optional): 
+* (Optional): 
   * [Understanding the Web](https://openclassrooms.com/en/courses/3314571-understanding-the-web)
     * OC course time: 4 hrs
 

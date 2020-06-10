@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="favoritesStyle.css">
+	<link href="https://fonts.googleapis.com/css2?family=Signika&display=swap" rel="stylesheet">
+	<title>Favorites List</title>
+</head>
+	<body>
+		<h1>My Favorites:</h1>
+		<p>This is a page about some of my favorites.</p>
+			<h3>TV Shows:</h3>
+				<ul>
+					<li>The Walking Dead</li>
+					<li>Game of Thrones</li>
+					<li>The Office</li>
+					<li>Last Week Tonight</li>
+					<li>Insecure</li>
+				</ul>
+			<h3>Foods:</h3>
+				<ul>
+					<li>Pizza</li>
+					<li>Enchiladas</li>
+					<li>Chicken Soup</li>
+					<li>Veggie Omelette</li>
+					<li>Udon</li>
+				</ul>	
+			<h3>Games:</h3>
+				<ul>
+					<li>Guesstures</li>
+					<li>Monopoly</li>
+					<li>Risk</li>
+					<li>Uno</li>
+					<li>Yahtzee</li>
+				</ul>
+		<div id="movies">
+			<h3>Movies:</h3>
+				<p>Click on any of the movie names for the trailer</p>
+				<ul>
+					<li><a href="https://www.youtube.com/watch?v=6ZfuNTqbHE8" target= "_blank">Avenger's Infinity War</a></li>
+					<li><a href="https://www.youtube.com/watch?v=TcMBFSGVi1c" target= "_blank">Avenger's End Game</a></li>
+					<li><a href="https://www.youtube.com/watch?v=xjDjIWPwcPU" target= "_blank">Black Panther</a></li>
+					<li><a href="https://www.youtube.com/watch?v=d96cjJhvlMA" target= "_blank">Guardians of the Galaxy</a></li>
+					<li><a href="https://www.youtube.com/watch?v=ue80QwXMRHg" target= "_blank">Thor Ragnarok</a></li>
+				</ul>
+		</div>
+
+	</body>
+</html>
+
+body{
+	background-color: #96ceb4;
+	color:  #ffeead;
+
+}
+h1 {
+	color: #588c7e;
+
+}
+h3 {
+	color: #f2e394;
+	font-family: 'Signika', sans-serif;
+	text-transform: uppercase;
+}
+#movies li {
+	margin-bottom: 5px;
+
+}
+a {
+	color: #d96459;
+	text-decoration: underline wavy;
+}
+a:hover {
+	color: #ff6f69;
+}

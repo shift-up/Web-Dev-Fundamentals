@@ -5,6 +5,7 @@ This mini-project is meant to get you familiar with the assignment submission an
 ## Project Instructions
 
 1. Go to your Web Dev Fundamentals repository (find it by going to My Respositories in your GitHub account).
+DONT MERGE THIS PR, JUST TESTING SOMETHING
 
 1. Create a new branch called `mini-project0.1`.
 

@@ -4,7 +4,9 @@ This mini-project is meant to get you familiar with the assignment submission an
 
 ## Project Instructions
 
-1. Go to https://github.com/shift-up/ and find the repository with your own name on it. Ex: `noah-passalacqua`
+1. If you aren't in your own personal repository with in the Shift Up organization already, go to https://github.com/shift-up/ and find the repository with your own name on it. Ex: `noah-passalacqua`
+
+1. Navigate to the **Unit 1 Module 0 Mini-Project0.1** directory. (Same directory this README is in)
 
 1. Create a new branch called `mini-project0.1`.
 

@@ -4,6 +4,8 @@ This mini-project is meant to get you familiar with the assignment submission an
 
 ## Project Instructions
 
+1. Go to https://github.com/shift-up/ and find the repository with your own name on it. Ex: `noah-passalacqua`
+
 1. Create a new branch called `mini-project0.1`.
 
 1. Create New File within this directory. ![alt text](https://raw.githubusercontent.com/shift-up/Web-Dev-Fundamentals/master/Unit1/Module0/Mini-Project0.1/screenshots/step3.png "Step 3")

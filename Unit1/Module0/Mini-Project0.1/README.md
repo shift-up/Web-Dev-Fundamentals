@@ -4,11 +4,13 @@ This mini-project is meant to get you familiar with the assignment submission an
 
 ## Project Instructions
 
-1. Go to your Web Dev Fundamentals repository (find it by going to My Respositories in your GitHub account).
+1. If you aren't in your own personal repository with in the Shift Up organization already, go to https://github.com/shift-up/ and find the repository with your own name on it. Ex: `noah-passalacqua`
+
+1. Navigate to the **Unit 1 Module 0 Mini-Project0.1** directory. (Same directory this README is in)
 
 1. Create a new branch called `mini-project0.1`.
 
-1. Navigate to `your-name/Web-Dev-Fundamentals/Unit1/Module0/Mini-Project0.1` and click Create New File. ![alt text](https://raw.githubusercontent.com/shift-up/Web-Dev-Fundamentals/master/Unit1/Module0/Mini-Project0.1/screenshots/step3.png "Step 3")
+1. Create New File within this directory. ![alt text](https://raw.githubusercontent.com/shift-up/Web-Dev-Fundamentals/master/Unit1/Module0/Mini-Project0.1/screenshots/step3.png "Step 3")
 
 1. Name the file `mini-project0.1.md`
 

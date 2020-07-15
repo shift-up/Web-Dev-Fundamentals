@@ -9,6 +9,7 @@ This mini-project is meant to get you familiar with the assignment submission an
 1. Navigate to the **Unit 1 Module 0 Mini-Project0.1** directory. (Same directory this README is in)
 
 1. Create a new branch called `mini-project0.1`.
+[branch step image here](./screenshots/step3-0.png "Step 3.0")
 
 1. Create New File within this directory. ![alt text](https://raw.githubusercontent.com/shift-up/Web-Dev-Fundamentals/master/Unit1/Module0/Mini-Project0.1/screenshots/step3.png "Step 3")
 

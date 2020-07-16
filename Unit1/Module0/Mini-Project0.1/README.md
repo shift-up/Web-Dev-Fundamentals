@@ -16,7 +16,7 @@ This mini-project is meant to get you familiar with the assignment submission an
 
 1. Add a sentence or two to the file describing one thing you learned in Module 0. ![alt text](https://raw.githubusercontent.com/shift-up/Web-Dev-Fundamentals/master/Unit1/Module0/Mini-Project0.1/screenshots/step4.png "Step 4")
 
-1. Scroll down and click the green "Commit new file" button. **IMPORTANT:** make sure you select "Commit directly to the `mini-project0.1` branch. ![alt text](https://raw.githubusercontent.com/shift-up/Web-Dev-Fundamentals/master/Unit1/Unit0-Project/screenshots/step5.png "Step 5")
+1. Scroll down and click the green "Commit new file" button. **IMPORTANT:** make sure you select "Commit directly to the `mini-project0.1` branch. ![alt text](https://raw.githubusercontent.com/shift-up/Web-Dev-Fundamentals/master/Unit1/Module0/Mini-Project0.1/screenshots/step5.png "Step 5")
 
 1. Create a new pull request for the `mini-project0.1` branch you just created (same way you did in Module 0.1 of this course).
 

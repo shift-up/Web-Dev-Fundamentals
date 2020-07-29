@@ -9,7 +9,7 @@
 
 1. Use the same process to turn in your work that you used for the Unit 0 Project.
 
-1. Make sure you are turning things in to the apprpriate folder within your personal GitHub repository. If you lost track of your link, you can find your GitHub repository on [the Shift_Up list here](https://github.com/shift-up/), it click the repo with your name.
+1. Make sure you are turning things in to the appropriate folder within your personal GitHub repository. If you lost track of your link, you can find your GitHub repository on [the Shift_Up list here](https://github.com/shift-up/), it click the repo with your name.
 
 1. Find the empty folder for Mini-Project1.1a (e.g. `Web-Dev-Fundamentals/Unit1/Module1.1/Mini-Project1.1a`) in your personal GitHub repository and add your .html file with the code you wrote for this Mini-Project. 
 

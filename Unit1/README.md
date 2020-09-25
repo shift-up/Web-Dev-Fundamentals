@@ -16,7 +16,7 @@
 
 ### Mini-Projects
 
-* To learn the GitHub process for submitting mini-projects and unit project and getting coach feedback, follow the instructions for [Mini-Project 0.1 here](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Module0/Mini-Project0.1).
+* To learn the GitHub process for submitting mini-projects and unit project and getting coach feedback, follow the instructions for [Mini-Project 0.1 here](Module0/Mini-Project0.1/).
 
 ## Module 1.1
 
@@ -29,10 +29,10 @@
 
 * Included in OC course:
    * Mini-Project 1.1a: 
-     [Build a basic personalized HTML web page](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Module1.1/Mini-Project1.1a)
+     [Build a basic personalized HTML web page](Module1.1/Mini-Project1.1a/)
 * **Not** included in OC course:
    * Mini-Project 1.1b (Optional):
-     [HTML Forms](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Module1.1/Mini-Project1.1b)
+     [HTML Forms](Module1.1/Mini-Project1.1b/)
 
 ### Self-Graded Assignments
 
@@ -87,13 +87,13 @@
 
 * Included in OC course: 
   * Mini-Project 1.2a: 
-	[Create a page about your projects using padding, widths, media queries](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Module1.2/Mini-Project-1.2a)
+	[Create a page about your projects using padding, widths, media queries](Module1.2/Mini-Project-1.2a)
   * Mini-Project 1.2b: 
-	[Create your own layout with CSS Grid](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Module1.2/Mini-Project-1.2b)
+	[Create your own layout with CSS Grid](Module1.2/Mini-Project-1.2b)
 
 * **Not** included in OC course: 
   * Mini-Project 1.2c (Optional):
-	[Flexbox and CSS Grids: Build Comic strip](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Module1.2/Mini-Project-1.2c)
+	[Flexbox and CSS Grids: Build Comic strip](Module1.2/Mini-Project-1.2c)
 
 ### Self-Graded Assignments
 
@@ -130,5 +130,5 @@
 
 ## Unit 1 Project
 
-Access the [Unit 1 Project here](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1/Unit1-Project).
+Access the [Unit 1 Project here](Unit1-Project).
 

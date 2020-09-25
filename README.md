@@ -10,10 +10,10 @@ As you go through each Module you will find self-graded quizzes and assignments 
 
 # Units
 
-- [Unit 1: HTML & CSS](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit1)
-- [Unit 2: Command Line & GitHub](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit2)
-- [Unit 3: Javascript Fundamentals](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit3)
-- [Unit 4: Javascript for the Web](https://github.com/shift-up/Web-Dev-Fundamentals/tree/master/Unit4)
+- [Unit 1: HTML & CSS](tree/master/Unit1)
+- [Unit 2: Command Line & GitHub](tree/master/Unit2)
+- [Unit 3: Javascript Fundamentals](tree/master/Unit3)
+- [Unit 4: Javascript for the Web](tree/master/Unit4)
 
 # Capstone Project
 

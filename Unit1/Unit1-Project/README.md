@@ -13,15 +13,5 @@ This project gives you the opportunity to apply your knowledge of HTML and CSS. 
 
 1. Complete the project according to the instructions at the above link (you will be writing your code in CodePen). 
 
-1. Once you complete the project in CodePen you can submit the code via GitHub. 
-
-1. Create a new branch called `unit1-project`.
-
-1. Navigate to `Web-Dev-Fundamentals/Unit1/Unit1-Project` and click Create New File. 
-
-1. Copy all the HTML from the window on CodePen and paste it into the textbox. Name the file `project.html` and save/commit the file.
-
-1. Create another new File and copy all the CSS from the window on CodePen and paste it into the textbox. Name the file `project.css` and save/commit the file.
-
-1. Create a new Pull Request from your `unit1-project` branch and assign to a coach for review.
+1. As usual, submit your Codepen URL to [turn in Unit Project 1 here](https://docs.google.com/forms/d/e/1FAIpQLSc_sfQGLtQm0urCPut6eXEv032EcCZrKGJFDcvJjs7IWP4NTg/viewform?usp=pp_url&entry.528082491=Unit+Project+1).
 

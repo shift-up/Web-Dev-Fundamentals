@@ -16,6 +16,6 @@
 
 1. For each command required, create a new line in the file created above and paste your answer.
 
-1. As usual, create a new branch and then new Pull Request and assign it to your coach for review.
+1. Copy the commands you wrote into a Codepen and [turn in Mini-Project 2.1a here](https://docs.google.com/forms/d/e/1FAIpQLSc_sfQGLtQm0urCPut6eXEv032EcCZrKGJFDcvJjs7IWP4NTg/viewform?usp=pp_url&entry.528082491=Mini-Project+2.1a).
 
 _HINT: You can run your commands by executing the file (script) in terminal with this command: `./create_and_modify.sh`_

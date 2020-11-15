@@ -20,7 +20,5 @@ This is an optional project to help you learn about and practice creating HTML f
 1. Using CodePen https://codepen.io/pen/, try building out the below HTML form. Complete how much ever you can in one hour
   ![html-form](https://user-images.githubusercontent.com/8469211/65740564-34252f80-e0b7-11e9-9004-34ee40a74e66.png)
 
-1. After you get things working in CodePen, copy out the HTML and save it as a .html file within the `/Unit1/Module1.1/Mini-Project1.1b` directory of your personal GitHub repository.
-
-1. As usual, create a new branch and then new Pull Request and assign it to your coach for review.
+1. After you get things working in CodePen, [turn in Mini-Project 1.1b here](https://docs.google.com/forms/d/e/1FAIpQLSc_sfQGLtQm0urCPut6eXEv032EcCZrKGJFDcvJjs7IWP4NTg/viewform?usp=pp_url&entry.528082491=Mini-Project+1.1b)
 

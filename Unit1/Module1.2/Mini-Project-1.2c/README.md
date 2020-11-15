@@ -21,7 +21,5 @@ This is an optional project to help you practice with CSS Grid and your knowledg
 1. Look at the below image for reference  
     <img width="577" alt="Screen Shot 2019-10-14 at 6 39 00 PM" src="https://user-images.githubusercontent.com/8469211/66787496-ed567880-eeb1-11e9-9d2b-b9b788f74301.png">
 
-1. After you get things working in CodePen, copy out the HTML and CSS and save the code to a new .html and a new .css  file within the `/Unit1/Module1.2/Mini-Project1.2c` directory of your personal GitHub repository.
-
-1. As usual, create a new branch and then new Pull Request and assign it to your coach for review.
+1. After getting your code working, as usual, [turn in Mini-Project 1.2c here](https://docs.google.com/forms/d/e/1FAIpQLSc_sfQGLtQm0urCPut6eXEv032EcCZrKGJFDcvJjs7IWP4NTg/viewform?usp=pp_url&entry.528082491=Mini-Project+1.2c).
 

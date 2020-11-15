@@ -11,8 +11,8 @@ When you are done, push your branch to the remote repository and create a pull r
 
 **NOTE:** When instructed to take a screenshot, immediately save and commit the images to `Unit2-Project/screenshots/{number}` (commit messages does **not** matter)
 
-1. Fork this repository to your Github account.
-1. Clone the repository with Git on your computer.
+1. Find your personal ShiftUp repository by going to https://github.com/shift-up and looking for the repo with your name (e.g. `https://github.com/shift-up/Your-Name`). If you do not see a repository with your name, reach out to "Adrian Laurenzi" or "Ray Batra" on the Shift_Up Slack.
+1. Clone your personal GitHub repository to your local machine.
 1. Use `git log` to look at the file structure and commits. Note how many commits, trees, and blobs there are!
     1. Take and save screenshot to `Unit2-Project/screenshots/1`
 1. Create a new branch and check it out (you can name the branch what you want).

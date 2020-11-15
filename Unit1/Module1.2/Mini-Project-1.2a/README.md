@@ -7,9 +7,5 @@
 
 1. Open the [project page on OpenClassrooms](https://openclassrooms.com/en/courses/5295881-create-web-page-layouts-with-css/5341491-set-media-queries-for-different-devices#/id/r-5548117)
 
-1. After getting your HTML page working on your computer you should have two files `index.html` and `style.css`.
-
-1. Using the process you learned in Unit 0, upload both these files to the `/Unit1/Module1.2/Mini-Project1.2a` directory of your personal GitHub repository.
-
-1. As usual, create a new branch and then new Pull Request and assign it to your coach for review.
+1. After getting your code working, as usual, put your code into Codepen and [turn in Mini-Project 1.2a here](https://docs.google.com/forms/d/e/1FAIpQLSc_sfQGLtQm0urCPut6eXEv032EcCZrKGJFDcvJjs7IWP4NTg/viewform?usp=pp_url&entry.528082491=Mini-Project+1.2a)
 
